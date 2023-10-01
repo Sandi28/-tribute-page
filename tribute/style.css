@@ -1,0 +1,128 @@
+.body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-image: url(yan.jpg);
+ 
+ 
+  }
+
+  .light{
+    color: #ffffff;
+  }
+.d{
+  background-color: rgb(156, 156, 179);
+}
+
+
+  .bg{
+    font-style: normal;
+    background-color: rgb(71, 64, 94);
+    
+}
+
+  .title {
+    text-align: center;
+    font-size: 44px;
+    color: rgb(238, 243, 243);
+  }
+
+
+
+.left{
+  text-align: right;
+  font-style: oblique;
+  font-size: 23px;
+}
+
+  .martop{
+    margin-top: 20px;
+  }
+
+
+
+  .m{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 35px;
+  }
+  .b{
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .bd {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: rgb(238, 243, 243);
+  }
+
+  
+  .a{
+    padding-left: 20px;
+    
+  }
+  
+  .font{
+    font-style: italic;
+    color: blue;
+  }
+
+  .di{
+    text-align: right;
+  }
+
+  .navbar {
+  
+    background-color: rgb(31, 30, 39);
+    
+    transition: background-color 0.3s, color 0.3s;
+   }
+
+  .navbar a{
+    font-size: 20px;
+    margin-left: 120px;
+    padding: 10px 20px 10px 0px;
+   color: rgb(238, 243, 243);
+    text-align: right;
+    
+   }
+   .navbar:hover {
+       background-color: #92929c;
+       color: #eee;
+     }
+  
+  .image {
+    max-width: 500px;
+    max-height: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 25px;
+  }
+  
+  p {
+    font-size: 23px;
+  }
+
+
+  .nav-item a{
+    color:  rgb(238, 243, 243);
+  }
+
+  .nav-item a:hover{
+    color: #92929c;
+  }
+
+  li{
+    color: rgb(238, 243, 243);
+  }
+  
+  .intro {
+    margin-bottom: 24px;
+    margin-top: 24px;
+  }
+  
+  li {
+    font-size: 24px;
+  }
+
